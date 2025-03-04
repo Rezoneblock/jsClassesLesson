@@ -1,0 +1,19 @@
+{
+  "name": "jsclasseslesson",
+  "version": "1.0.0",
+  "main": "List.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rezoneblock/jsClassesLesson.git"
+  },
+  "author": "Gordeev Timur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rezoneblock/jsClassesLesson/issues"
+  },
+  "homepage": "https://github.com/Rezoneblock/jsClassesLesson#readme",
+  "description": ""
+}

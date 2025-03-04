@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    /* Language and Environment */
+    "target": "es2019", // Указываем целевую версию JavaScript (ES6)
+    "lib": ["es2019", "dom"], // Подключаем библиотеки ES6 и DOM (если нужно)
+
+    /* Strict Type-Checking */
+    "strict": true, // Включаем строгую типизацию
+
+    /* Interop Constraints */
+    "esModuleInterop": true, // Упрощаем работу с модулями CommonJS и ES Modules
+    "forceConsistentCasingInFileNames": true, // Проверяем регистр имен файлов
+
+
+    /* Other Options */
+    "skipLibCheck": true // Пропускаем проверку типов в библиотеках
+  },
+  "include": ["./"], // Какие файлы компилировать
+  "exclude": ["node_modules"] // Какие файлы игнорировать
+}
